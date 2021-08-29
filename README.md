@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Nazmul Hossen
-#### Web Developer
-![Web Deveeloper](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+#### Web Deveeloper
 I'm a Font End Web developer who is passionate about making error-free website with 100% client satisfaction. I love to solve real-world problems. I am strategic goal-oriented. and always work with an end goal in mind. Over the past years. I created many website for my clients. I pride myself on doing quality work. and maintain excellent communication. 
 
 Skills: HTML/CSS/BOOTSTRAP/JS

@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img width="830em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazmul580&theme=tokyonight" />
+  <img width="820em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazmul580&theme=tokyonight" />
 </p>
 
 

@@ -61,20 +61,16 @@ A Markdown editor with live preview and exporting options.
 `React` `Marked.js` `Tailwind`
 
 ---
-
 ## 📊 GitHub Stats
 
-## GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nazmul580&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul580&layout=compact&theme=radical&langs_count=6" />
+</p>
 
-![Nazmul Hossen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahid-official&show_icons=true&theme=transparent)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahid-official&layout=compact&theme=transparent)
-
-## Contribution Graph
-
-![Nazmul Hossen's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=zahid-official&theme=github-compact)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazmul580&theme=tokyonight" />
+</p>
 
 
 

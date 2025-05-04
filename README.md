@@ -69,8 +69,9 @@ A Markdown editor with live preview and exporting options.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazmul580&theme=tokyonight" />
+  <img width="740em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazmul580&theme=tokyonight" />
 </p>
+
 
 
 

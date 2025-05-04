@@ -37,8 +37,6 @@
 ![Render](https://img.shields.io/badge/-Render-8940fa?style=flat-square&logo=render)
 
 ---
-
----
 ## 📊 GitHub Stats
 
 <p align="center">

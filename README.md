@@ -38,28 +38,6 @@
 
 ---
 
-## 🚀 My Projects
-
-### 🧠 MindScribe
-A collaborative note-taking app where users can write, organize, and share their thoughts.  
-[🔗 Live](#) | [💻 Code](#)  
-`Node.js` `React` `MongoDB`
-
-### 🔗 Link Sharing App
-A simple and fast app to generate shareable links.  
-[🔗 Live](#) | [💻 Code](#)  
-`JavaScript` `JWT` `Express`
-
-### 🧑‍💻 Real-Time Code Editor
-A web-based code editor with real-time collaboration.  
-[🔗 Live](#) | [💻 Code](#)  
-`React` `Socket.io` `Node.js`
-
-### 📄 Justify
-A Markdown editor with live preview and exporting options.  
-[🔗 Live](#) | [💻 Code](#)  
-`React` `Marked.js` `Tailwind`
-
 ---
 ## 📊 GitHub Stats
 
@@ -69,7 +47,7 @@ A Markdown editor with live preview and exporting options.
 </p>
 
 <p align="center">
-  <img width="835em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazmul580&theme=tokyonight" />
+  <img width="830em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nazmul580&theme=tokyonight" />
 </p>
 
 

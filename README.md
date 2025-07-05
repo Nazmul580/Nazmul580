@@ -41,7 +41,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nazmul580&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul580&layout=compact&theme=radical&langs_count=6" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul580&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 <p align="center">

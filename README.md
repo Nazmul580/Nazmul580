@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=Nazmul580&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul580&layout=compact&theme=radical&langs_count=6" />
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=Nazmul580&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul580&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 <p align="center">

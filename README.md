@@ -65,7 +65,7 @@
 ## 📬 Contact
 
 [![Gmail](https://img.shields.io/badge/-nazmul007az@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nazmul007az@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nazmul-hossen007)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nazmul2002)
 
 ---
 
